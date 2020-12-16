@@ -44,6 +44,6 @@ In 2018, OpenAI also trained a similar LSTM by policy gradients to control a hum
 
 In 2019, DeepMind's program AlphaStar used a deep LSTM core to excel at the complex video game Starcraft II. This was viewed as significant progress towards Artificial General Intelligence.
 
-## Result
+## Results of CryptoCurrency Forecasting with LSTM
 
 <img width="800" alt="LSTM_building_Blocks" src="https://user-images.githubusercontent.com/60491493/102361897-a67b7b80-3fab-11eb-9def-a95f219fa4b8.png">
